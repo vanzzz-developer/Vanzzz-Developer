@@ -81,6 +81,36 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>💻 <a href="https://vanzzz-cloud.github.io/vanzzz/">Vanzzz — Portfolio Website</a></h3>
+      <p><b>Sleek High-Performance Personal Developer Portfolio & Showcase.</b></p>
+      <ul>
+        <li>Interactive Dark / Light Mode with frosted glassmorphism navigation.</li>
+        <li>Typewriter effect, floating particle canvas & scroll animations.</li>
+        <li>Client-side form validation, CV download, and full mobile responsiveness.</li>
+      </ul>
+      <p>
+        <a href="https://vanzzz-cloud.github.io/vanzzz/"><img src="https://img.shields.io/badge/Live_Demo-vanzzz--cloud.github.io-8B5CF6?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+        <a href="https://github.com/Vanzzz-Cloud/vanzzz"><img src="https://img.shields.io/badge/Repo-Vanzzz-22C55E?style=flat-square&logo=github" /></a>
+        <img src="https://img.shields.io/badge/HTML5-TailwindCSS-E34F26?style=flat-square&logo=html5" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>📥 <a href="https://github.com/Vanzzz-Cloud/ai-dubbing-studio">V-Downloader Studio</a></h3>
+      <p><b>High-Speed Multi-Platform 4K/1080p Media Extraction Engine.</b></p>
+      <ul>
+        <li>Download high-definition videos from YouTube, TikTok, Reels & MP4.</li>
+        <li>Automatic audio stream separation and subtitle track preservation.</li>
+        <li>Integrated directly into creative editing workflows.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/4K_Ultra_HD-Ready-FF0000?style=flat-square&logo=youtube" />
+        <img src="https://img.shields.io/badge/FFmpeg-Fast-007808?style=flat-square&logo=ffmpeg" />
+        <img src="https://img.shields.io/badge/Cross--Platform-macOS_%7C_Win-0078D4?style=flat-square" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -117,3 +147,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=100&section=footer" width="100%" />
 </div>
+

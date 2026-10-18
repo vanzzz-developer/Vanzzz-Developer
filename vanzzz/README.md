@@ -11,7 +11,7 @@
 > Replace with your actual deployed URL after hosting.
 
 ```
-https://vanzzz-cloud.github.io/Vanzzz
+https://vanzzz-developer.vercel.app/
 ```
 
 ---

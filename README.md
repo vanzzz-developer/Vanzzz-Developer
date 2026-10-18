@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    <a href="https://vanzzz-cloud.github.io/vanzzz/"><img src="https://img.shields.io/badge/Portfolio-vanzzz--cloud.github.io-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://vanzzz-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-vanzzz--developer.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="https://github.com/Vanzzz-Cloud"><img src="https://img.shields.io/badge/GitHub-Vanzzz--Cloud-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <img src="https://img.shields.io/badge/Location-Phnom_Penh%2C_Cambodia-0062B1?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
   </p>
@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>💻 <a href="https://vanzzz-cloud.github.io/vanzzz/">Vanzzz — Portfolio Website</a></h3>
+      <h3>💻 <a href="https://vanzzz-developer.vercel.app/">Vanzzz — Portfolio Website</a></h3>
       <p><b>Sleek High-Performance Personal Developer Portfolio & Showcase.</b></p>
       <ul>
         <li>Interactive Dark / Light Mode with frosted glassmorphism navigation.</li>
@@ -91,7 +91,7 @@
         <li>Client-side form validation, CV download, and full mobile responsiveness.</li>
       </ul>
       <p>
-        <a href="https://vanzzz-cloud.github.io/vanzzz/"><img src="https://img.shields.io/badge/Live_Demo-vanzzz--cloud.github.io-8B5CF6?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+        <a href="https://vanzzz-developer.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-vanzzz--developer.vercel.app-8B5CF6?style=flat-square&logo=vercel&logoColor=white" /></a>
         <a href="https://github.com/Vanzzz-Cloud/vanzzz"><img src="https://img.shields.io/badge/Repo-Vanzzz-22C55E?style=flat-square&logo=github" /></a>
         <img src="https://img.shields.io/badge/HTML5-TailwindCSS-E34F26?style=flat-square&logo=html5" />
       </p>
@@ -133,7 +133,7 @@
 ## 📬 Connect with Me
 
 <div align="center">
-  <a href="https://vanzzz-cloud.github.io/vanzzz/">
+  <a href="https://vanzzz-developer.vercel.app/">
     <img src="https://img.shields.io/badge/Website-Personal_Portfolio-8B5CF6?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
   &nbsp;&nbsp;
